@@ -1,11 +1,11 @@
 ## Hola que tal, bienvenido a mi repositorio.👋
 Tegnologias dominadas:
--Aplicaciones de productividad (Office 360)
--Apache Netbeans (Java)-aprendiendo
--Xampp-aprendiendo
--Visual studio-aprendiendo
--Mysql-aprendiendo
--Cisco Packet Tracer
+- Aplicaciones de productividad (Office 360)
+- Apache Netbeans (Java)-aprendiendo
+- Xampp-aprendiendo
+- Visual studio-aprendiendo
+- Mysql-aprendiendo
+- Cisco Packet Tracer
 
 Unas de mis mas grandes metas academicas es lograr dominar todas las tecnologias que me enseñen a usar los docentes, fortalecer mi logica en la programacion, dominar el idioma de ingles a minimo de nivel b2, ser buen analista de datos y Entender a fondo cómo viajan los datos y comprender el modelo OSI a la perfección y realizar simulaciones de redes complejas.
 <!--
