@@ -7,7 +7,7 @@ Tegnologias dominadas:
 - Mysql-aprendiendo
 - Cisco Packet Tracer
 
-Unas de mis mas grandes metas academicas es lograr dominar todas las tecnologias que me enseñen a usar los docentes, fortalecer mi logica en la programacion, dominar el idioma de ingles a minimo de nivel b2, ser buen analista de datos y Entender a fondo cómo viajan los datos y comprender el modelo OSI a la perfección y realizar simulaciones de redes complejas.
+Unas de mis mas grandes metas academicas es lograr dominar todas las tecnologias que me enseñen a usar los docentes, fortalecer mi logica en la programacion, dominar el idioma de ingles a minimo de nivel b2, ser buen analista de datos, en redes entender a fondo cómo viajan los datos, comprender el modelo OSI a la perfección, dominar casi al 100% las herramientas de seguridad y realizar simulaciones de redes complejas.
 <!--
 **siete619/siete619** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
