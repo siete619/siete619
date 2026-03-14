@@ -6,6 +6,7 @@ Tegnologias dominadas:
 - Visual studio-aprendiendo
 - Mysql-aprendiendo
 - Cisco Packet Tracer
+- Github-aprendiendo
 
 Unas de mis mas grandes metas academicas es lograr dominar todas las tecnologias que me enseñen a usar los docentes, fortalecer mi logica en la programacion, dominar el idioma de ingles a minimo de nivel b2, ser buen analista de datos, en redes entender a fondo cómo viajan los datos, comprender el modelo OSI a la perfección, dominar casi al 100% las herramientas de seguridad y realizar simulaciones de redes complejas.
 <!--
